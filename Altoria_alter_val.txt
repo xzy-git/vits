@@ -1,0 +1,10 @@
+FGO_altoria_alter/SV3_1_情人节剧情2.wav|む。何の用だマスター。私は見ての通り、食後の散歩だ。
+FGO_altoria_alter/SV73_1_情人节剧情1.wav|メリー……いや、ハッピーバレンタインだ、トナカイ。
+FGO_altoria_alter/SV179_1_情人节剧情16.wav|甘さは控えめだが、六発もあれば満足できる筈だ。それでも足りなければ他のサーヴァントから貰うといい。
+FGO_altoria_alter/003di_di2.wav|もはや王も騎士もない。私はお前のサーヴァントだ。
+FGO_altoria_alter/SV3_11_关于灵衣.wav|円卓どもには見せられない姿だな。……だが、今の私は、王でも騎士でもない。連中の動揺など知ったことか。それより外出するぞ、マスター。ビッグなパテが我々を呼んでいる
+FGO_altoria_alter/073di_lvup.wav|もっとだ。サボるな
+FGO_altoria_alter/073di_eve.wav|祭りが始まったようだな。我々の出番だぞ、トナカイ
+FGO_altoria_alter/179di_sk2.wav|待っていろ、すぐに片づける
+FGO_altoria_alter/179di_sk3.wav|食べたアイスの数など覚えてはいない
+FGO_altoria_alter/179di_bdlv1.wav|ここまでの戦い、存分に見させてもらった。率直に言うと悪くない。流石は私を選んだマスターだ。だが慢心するな。マスター道は二年にして成らず。これからは私と共に、グランドの位を目指してもらおう
