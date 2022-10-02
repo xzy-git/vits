@@ -231,6 +231,8 @@ def train_and_evaluate(rank, epoch, hps, nets, optims, schedulers, scaler, loade
         evaluate(hps, net_g, eval_loader, writer_eval)
         utils.save_checkpoint(net_g, optim_g, hps.train.learning_rate, epoch, os.path.join(hps.model_dir, "G_{}.pth".format(global_step)))
         utils.save_checkpoint(net_d, optim_d, hps.train.learning_rate, epoch, os.path.join(hps.model_dir, "D_{}.pth".format(global_step)))
+        utils.save_checkpoint(net_g, optim_g, hps.train.learning_rate, epoch, os.path.join("../drive/MyDrive/", "G_{}.pth".format(global_step)))#also save a copy in google drive(colab only)
+        utils.save_checkpoint(net_d, optim_d, hps.train.learning_rate, epoch, os.path.join("../drive/MyDrive/", "D_{}.pth".format(global_step)))
     global_step += 1
   
   if rank == 0:
